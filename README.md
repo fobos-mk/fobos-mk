@@ -10,7 +10,7 @@
  <summary><h4>РЕЗЮМЕ</h4></summary
  
 <a href="" target="_blank">Открыть</a>  
-<a href="https://github.com/fobos-mk/fobos-mk/blob/main/ResumeShitilov.pdf" target="_blank">Скачать.pdf</a>
+<a href="[https://github.com/fobos-mk/fobos-mk/blob/main/ResumeShitilov.pdf](https://github.com/fobos-mk/fobos-mk/raw/main/ResumeShitilov.pdf)" target="_blank">Скачать.pdf</a>
  </details>
 
 <h4 align="left">SOFT SKILLS</h4>
