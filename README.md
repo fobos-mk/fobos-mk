@@ -9,7 +9,6 @@
 <details>
  <summary><h4>РЕЗЮМЕ</h4></summary
  
-#<a href="" target="_blank">Открыть</a>
 <a href="https://github.com/fobos-mk/fobos-mk/raw/main/ResumeShitilov.pdf">Скачать.pdf</a>
  </details>
 
