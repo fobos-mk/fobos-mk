@@ -12,10 +12,6 @@
 <a href="https://github.com/fobos-mk/fobos-mk/raw/main/ResumeShitilov.pdf">Скачать.pdf</a>
  </details>
 
-<h4 align="left">SOFT SKILLS</h4>
-<div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Режим многозадачности   #Стрессоустойчивость
-#Управление конфликтами   #Критическое мышление   #Дисциплина   #SMART   #Адаптивность</div></code></pre>
-
 <h4 align="left">HARD SKILLS</h4>
   
 ![](https://img.shields.io/badge/Google_Data_Studio,_Excel-pivot,_vlookup,_query-4AB197)
@@ -24,6 +20,11 @@
 ![](https://img.shields.io/badge/BI-Tableau,_Power_BI-4AB197)
 ![](https://img.shields.io/badge/AB_test-experimental_control_group,_split_test-4AB197)
 ![](https://img.shields.io/badge/ML-Linear_Regression,_Decision_Tree-4AB197)
+
+<h4 align="left">SOFT SKILLS</h4>
+<div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Режим многозадачности   #Стрессоустойчивость
+#Управление конфликтами   #Критическое мышление   #Дисциплина   #SMART   #Адаптивность</div></code></pre>
+
 
 <h4 align="left">Для связи:</h4>
 
