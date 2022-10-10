@@ -9,7 +9,7 @@
 <details>
  <summary><h4>РЕЗЮМЕ</h4></summary
  
-<a href="https://github.com/fobos-mk/fobos-mk/raw/main/ResumeShitilov.pdf">Скачать.pdf</a>
+<a href="https://github.com/fobos-mk/fobos-mk/blob/main/Resume_ShitilovMP_Data_Analyst.pdf">Скачать.pdf</a>
  </details>
 
 <h4 align="left">HARD SKILLS</h4>
