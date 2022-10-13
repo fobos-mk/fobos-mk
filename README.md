@@ -30,3 +30,5 @@
 
 ![telegram_icon-icons com_53603](https://user-images.githubusercontent.com/108893866/179564590-89ff20e0-d739-40e7-a12a-2ba0db8a262e.png)
 <a href="https://tgrm.github.io/Ma_swq" tatget="_blank">Telegram</a>
+
+<a href="https://www.linkedin.com/in/maxim-shitilov/">LinkedIn</a>
